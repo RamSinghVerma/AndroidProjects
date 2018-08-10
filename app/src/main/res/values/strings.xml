@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="openBracket">(</string>
+    <string name="closeBracket">)</string>
+</resources>
